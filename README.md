@@ -4,6 +4,8 @@
 
 <p align="left">I'm currently working as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.</p>
 
+* 🧠  I'm currently studying Django, next -> DevOps -> React
+
 ###
 
 <h2 align="left">I code with</h2>
