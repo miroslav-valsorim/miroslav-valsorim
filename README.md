@@ -4,7 +4,7 @@
 
 <p align="left">I'm currently working as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.</p>
 
-* 🧠  I'm currently studying Django, next -> DevOps -> React
+* 🧠  Just have finished Django Web SoftUni Course. Now Started DevOps (Software Engineering and DevOps / Containers and Cloud) at SoftUni ...-> Next to follow are Kubernetes and React
 
 ###
 
