@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" alt="django logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" height="60" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="12" />
