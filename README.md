@@ -4,13 +4,14 @@
 
 <p align="left">
   I'm currently working as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.
-  <br><br>
-  📖 Just have finished Django Web SoftUni Course. Link to my project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App)
-  <br><br>
-  📝 Currently studying DevOps (Software Engineering and DevOps / Containers and Cloud) at SoftUni.
-  <br><br>
-  🔜 Next to follow are Kubernetes, React...and much more...</p>
+</p>
 
+  📖 Just have finished Django Web SoftUni Course. Link to my project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App)
+ 
+  📝 Currently studying DevOps (Software Engineering and DevOps / Containers and Cloud) at SoftUni.
+  
+  🔜 Next to follow are Kubernetes, React...and much more...
+  
 ###
 
 <h2 align="center">Technologies I work with</h2>
