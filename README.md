@@ -6,9 +6,11 @@
   I'm currently working as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.
 </p>
 
-  📖 Just have finished Django Web SoftUni Course. Link to my project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App)
+  📖 Link to my Django project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App)
+
+  📖 Just have finished Software Engineering and DevOps at Softuni.
  
-  📝 Currently studying DevOps (Software Engineering and DevOps / Containers and Cloud) at SoftUni.
+  📝 Currently studying Containers and Cloud at SoftUni.
   
   🔜 Next to follow are Kubernetes, React...and much more...
   
