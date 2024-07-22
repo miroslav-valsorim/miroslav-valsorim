@@ -6,7 +6,13 @@
   I'm currently working as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.
 </p>
 
-  📖 Link to my Django project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App)
+  👨‍🎓 Graduated successfully as a Python Web Developer in the "Software Engineering with Python" Program at SoftUni.bg
+
+  🎓 Softuni Python Web Developer Diploma [here](https://github.com/miroslav-valsorim/SoftUni-Certificates-Diplomas/blob/main/Softuni-Diplomas/Diploma%20for%20Python%20Web%20Developer.pdf)
+
+  📜 SoftUni Certificates [here](https://github.com/miroslav-valsorim/SoftUni-Certificates-Diplomas/tree/main/SoftUni-Certificates)
+
+  🌐 Link to my Django Github project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App) / Link to the website [here](https://djangoalfaromeowebapp.onrender.com) (free hosted)
 
   📖 Just have finished Software Engineering and DevOps at Softuni.
  
