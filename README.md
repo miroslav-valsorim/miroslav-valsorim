@@ -16,9 +16,9 @@
 
   📖 Just have finished Software Engineering and DevOps at Softuni.
  
-  📝 Currently studying Containers and Cloud at SoftUni.
+  📝 Currently studying Containers and Cloud at SoftUni + Kubernetes.
   
-  🔜 Next to follow are Kubernetes, React...and much more...
+  🔜 Much more to follow...
   
 ###
 
