@@ -12,7 +12,7 @@
 
   📜 SoftUni Certificates [here](https://github.com/miroslav-valsorim/SoftUni-Certificates-Diplomas/tree/main/SoftUni-Certificates)
 
-  🌐 Link to my Django Github project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App) / Link to the website [here](https://djangoalfaromeowebapp.onrender.com) (free hosted)
+  🌐 Link to my Django Github project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App) / Link to the website [here](https://alfaromeo.azurewebsites.net/) (free hosted)
 
   📖 Just have finished Software Engineering and DevOps at Softuni.
  
