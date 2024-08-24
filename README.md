@@ -14,7 +14,7 @@
 
   🌐 Link to my Django Github project [here](https://github.com/miroslav-valsorim/Django-Alfa-Romeo-Web-App) / Link to the website [here](https://alfaromeo.azurewebsites.net/) (free hosted)
 
-  📖 Just have finished DevOps for Developers (Software Engineering and DevOps + Containers and Cloud) at Softuni.
+  📖 Just have finished DevOps for Developers / Full Stack Course (Software Engineering and DevOps + Containers and Cloud) at Softuni.
  
   📝 Currently studying Kubernetes at SoftUni.
   
