@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm currently working as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.
+  I'm currently working as a DevOps Engineer.I have previous experience as a Software Implementation Engineer. I'm continuously pursuing self-development while eagerly embracing new challenges. Passionate about refining skills and exploring novel opportunities.
 </p>
 
   👨‍🎓 Graduated successfully as a Python Web Developer in the "Software Engineering with Python" Program at SoftUni.bg
