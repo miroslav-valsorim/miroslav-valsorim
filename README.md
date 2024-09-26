@@ -18,7 +18,7 @@
  
   📝 Currently studying Kubernetes at SoftUni.
   
-  🔜 Much more to follow...
+  🔜 Much more to follow...Cloud Foundry, Concourse, Gardeners
   
 ###
 
