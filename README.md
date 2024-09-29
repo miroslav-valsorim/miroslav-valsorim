@@ -18,7 +18,7 @@
  
   📝 Currently studying Kubernetes at SoftUni.
   
-  🔜 Much more to follow...Cloud Foundry, Concourse, Gardeners
+  🔜 Much more to follow...Cloud Foundry, Concourse, Gardener (K8S extension)
   
 ###
 
